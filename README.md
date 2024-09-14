@@ -27,11 +27,11 @@ Check out my [blog](https://blog.louishhy.com) if you are interested in my rando
 - 🎮 Game design and development (Mainly Unity)
 - 🤖 Data science and machine learning
 
-<p align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=louishhy&show_icons=true&theme=default&rank_icon=github" style="margin-right: 10px;" />
-      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louishhy&layout=compact&theme=default" />
-  </div>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=louishhy&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=louishhy&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 Thanks for stopping by! 🤗
