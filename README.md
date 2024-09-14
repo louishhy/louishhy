@@ -29,8 +29,8 @@ Check out my [blog](https://blog.louishhy.com) if you are interested in my rando
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
-      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=louishhy&show_icons=true&theme=default&rank_icon=github" style="margin-right: 10px;" />
-      <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louishhy&layout=compact&theme=default" />
+      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=louishhy&show_icons=true&theme=default&rank_icon=github" style="margin-right: 10px;" />
+      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louishhy&layout=compact&theme=default" />
   </div>
 </p>
 
