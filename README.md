@@ -23,7 +23,7 @@ HKU B.Eng. (Computer Science) '23 -> UTokyo MASc '26
 Check out my [blog](https://blog.louishhy.com) if you are interested in my random thoughts. :)
 
 ## ⭐ I'm interested in...
-- 🌐 Web development (Checkout [min-server](https://github.com/louishhy/min-server)! :3)
+- 🌐 Web development
 - 🎮 Game design and development (Mainly Unity)
 - 🤖 Data science and machine learning
 
