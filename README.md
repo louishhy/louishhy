@@ -16,22 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ## 💬 About
-HKU B.Eng. (Computer Science) '23 -> UTokyo MASc '26
+B.Eng. (Computer Science) @ HKU '23 -> MASc @ UTokyo '26 -> Software Engineer @ LINE Yahoo
 
-🔭 Currently doing research on Human-Computer Interaction, Deep learning (Computer Vision).
+🔭 Did research on Egocentric Computer Vision, Deep Learning and Human-Computer Interaction.
 
 Check out my [blog](https://blog.louishhy.com) if you are interested in my random thoughts. :)
 
 ## ⭐ I'm interested in...
 - 🌐 Web development
-- 🎮 Game design and development (Mainly Unity)
 - 🤖 Data science and machine learning
+- 🎮 Game design and development (Mainly Unity)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=louishhy&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=louishhy&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=louishhy)](https://git.io/streak-stats)
 
 Thanks for stopping by! 🤗
