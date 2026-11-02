@@ -16,16 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## 💬 About
-B.Eng. (Computer Science) @ HKU '23 -> MASc @ UTokyo '26 -> Software Engineer @ LINE Yahoo
+B.Eng. (Computer Science) @ HKU '23 -> MASc @ UTokyo '26 -> Software Engineer (Infrastructure Platform) @ LINE Yahoo
 
 🔭 Did research on Egocentric Computer Vision, Deep Learning and Human-Computer Interaction.
 
 Check out my [blog](https://blog.louishhy.com) if you are interested in my random thoughts. :)
-
-## ⭐ I'm interested in...
-- 🌐 Web development
-- 🤖 Data science and machine learning
-- 🎮 Game design and development (Mainly Unity)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=louishhy)](https://git.io/streak-stats)
 
